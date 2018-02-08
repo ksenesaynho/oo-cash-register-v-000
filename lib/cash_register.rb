@@ -1,3 +1,3 @@
-class Cash Register
+class CashRegister
   
   
