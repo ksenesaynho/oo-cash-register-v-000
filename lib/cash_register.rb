@@ -1,6 +1,6 @@
 class CashRegister
   
-  attr_accessor :cash,
+  attr_accessor :total, :item,
   
 end
   
